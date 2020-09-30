@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [creating a chatbot](https://portal.inca.chat/)
 
-- 🌱 I’m currently learning **Angular 2+**
+- 🌱 I’m currently learning **Angular 10**
 
 - 💬 Ask me about **React JS, Node JS, Docker**
 
