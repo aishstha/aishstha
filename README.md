@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React JS, Node JS, Docker**
 
-- 👨‍💻 Looking for an amazing dev? Reach out!
+- 👨‍💻 Looking for a fullstack dev? Reach out!
 
 - 📫 Reach out to me at: **asworeya2shrestha@gmail.com**
 
