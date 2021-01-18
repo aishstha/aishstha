@@ -14,7 +14,7 @@
 
 - 👨‍💻 Looking for a fullstack dev? Reach out!
 
-- 📫 Reach out to me at: **asworeya2shrestha@gmail.com**
+- 📫 **asworeya2shrestha@gmail.com**
 
 - 👥 Unfortunately, most of my projects are private due to business requirements
 
