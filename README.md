@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular 10**
 
-- 💬 Ask me about **React JS, Node JS, Docker**
+- 💬 Ask me about **React JS, Node JS, Docker, Graphql**
 
 - 👨‍💻 Looking for a fullstack dev? Reach out!
 
