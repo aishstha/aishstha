@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/aishstha/count.svg" />
 </p>
 
-- 🔭 I’m currently working on [creating a chatbot](https://portal.inca.chat/)
+- 🔭 I’m currently working on [creating a chatbot](https://portal.inca.chat/) for Nexxt Inca
 
 - 🌱 I’m currently learning **Angular 10**
 
