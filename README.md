@@ -6,9 +6,9 @@
   <img src="https://profile-counter.glitch.me/aishstha/count.svg" />
 </p>
 
-- 🔭 I’m currently working on [creating a chatbot](https://www.nexxt.in/) for Nexxt Inca
+- 🔭 I’m working on [creating a chatbot](https://www.nexxt.in/) for [Nexxt Inca](https://nexxt.squarespace.com/whyinca)
 
-- 🌱 I’m currently learning **Angular 10**
+- 🌱 Currently learning **Angular 10**
 
 - 💬 Ask me about **React JS, Node JS, Docker, Graphql**
 
