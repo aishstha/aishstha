@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Tea over coffee**
 
-- Take a look on 📝 article I've written <a href="https://medium.com/@aishwaryashrestha232" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aishwaryashrestha232" height="30" width="30" /></a>
+- Take a look on 📝 article I've written on <a href="https://medium.com/@aishwaryashrestha232" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aishwaryashrestha232" height="30" width="30" /></a>
 <!--  
 **I am familar with:**  
 <p align="left"> 
