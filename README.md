@@ -8,7 +8,7 @@
 
 - 🔭 I’m working on [creating a chatbot](https://www.nexxt.in/) for [Nexxt Inca](https://nexxt.squarespace.com/whyinca)
 
-- 🌱 Currently learning **Angular 10**
+- 🌱 Currently learning **Haskell Programming Language**
 
 - 💬 Ask me about **React JS, Node JS, Docker, Graphql**
 
