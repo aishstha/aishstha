@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://aishstha.github.io/" target="_blank">Aishwarya</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://aishstha.github.io/">Aishwarya</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
 <h3 align="center">A software developer from Nepal</h3>
 
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Looking for a fullstack dev? Reach out!
 
-- 📫 **aishwaryashrestha232@gmail.com**
+- 📫 **asworeya2shrestha@gmail.com**
 
 - 👥 Unfortunately, most of my projects are private due to business requirements
 
