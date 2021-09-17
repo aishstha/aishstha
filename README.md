@@ -9,7 +9,7 @@
 
 - 🔭 I’m working on [creating a chatbot](https://www.nexxt.in/) for [Nexxt Inca](https://nexxt.squarespace.com/whyinca)
 
-- 🌱 Currently learning **Haskell Programming Language**
+- 🌱 Currently studying **Master's in Computer Science at University of Wisconsin-Milwaukee**
 
 - 💬 Ask me about **React JS, Node JS, Docker, Graphql**
 
