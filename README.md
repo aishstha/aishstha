@@ -11,17 +11,17 @@
 
 🌱 Currently studying **Master's in Computer Science at University of Wisconsin**
 
-- 💬 Ask me about **React JS, Node JS, Docker, Graphql**
+💬 Ask me about **React JS, Node JS, Docker, Graphql**
 
-- 👨‍💻 Looking for a fullstack dev? Reach out!
+👨‍💻 Looking for a fullstack dev? Reach out!
 
-- 📫 **asworeya2shrestha@gmail.com**
+📫 **asworeya2shrestha@gmail.com**
 
-- 👥 Unfortunately, most of my projects are private due to business requirements
+👥 Unfortunately, most of my projects are private due to business requirements
 
-- ⚡ Fun fact **Tea over coffee**
+⚡ Fun fact **Tea over coffee**
 
-- Take a look on 📝 article I've written on <a href="https://medium.com/@aishwaryashrestha232" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aishwaryashrestha232" height="30" width="30" /></a>
+📝 Take a look on article I've written on <a href="https://medium.com/@aishwaryashrestha232" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aishwaryashrestha232" height="30" width="30" /></a>
 <!--  
 **I am familar with:**  
 <p align="left"> 
