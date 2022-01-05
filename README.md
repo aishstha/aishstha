@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://aishstha.github.io/">Aishwarya</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h1>
-<h3 align="center">A software developer from Nepal</h3>
+<h3 align="center">A software developer</h3>
 
 
 <p align="center"> 
