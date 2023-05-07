@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/aishstha/count.svg" />
 </p>
 
-🔭 I’m working on [creating a chatbot](https://www.nexxt.in/) for [Nexxt Inca](https://nexxt.squarespace.com/whyinca)
+🔭 Recent past experience: Work on [creating a chatbot](https://www.nexxt.in/) for [Nexxt Inca](https://nexxt.in/)
 
 🌱 Currently studying **Master's in Computer Science at University of Wisconsin**
 
